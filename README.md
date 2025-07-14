@@ -43,3 +43,5 @@ Use TOR browser for onion links.
 
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/public/fresh.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/public/sheet.webp" alt="Abacus Register" style="max-width: 100%;"></a> 
+
+Update:  07/14/2025 04-17-35 Link is now responsive and operational
