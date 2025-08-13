@@ -52,4 +52,6 @@ Use TOR browser for onion links.
 
 
 
-Update:  04.08.2025
+
+
+Update:  13 August Link is now operational and clickable
