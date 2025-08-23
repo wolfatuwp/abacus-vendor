@@ -56,4 +56,6 @@ Use TOR browser for onion links.
 
 
 
-Update:  19 August 2025
+
+
+Update:  23.08.2025 url is now accessible and responsive
